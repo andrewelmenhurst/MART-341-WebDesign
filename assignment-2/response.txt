@@ -1,0 +1,5 @@
+The internet is a global system of interconnected networks while the world-wide web is a vast collection of resources and content connected and shared using the internet.
+The internet works by sending signals and data between internet connected devices and databases.
+Directories are essentially folders that are used to organize and house files.
+VCS will benefit me by keeping track of all the changes I make to my files at any point in time.
+My favorite kind of art is pop art.
