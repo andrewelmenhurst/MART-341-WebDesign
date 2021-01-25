@@ -1,1 +1,2 @@
-# MART-341-WebDesign
+# MART-341-WebDesign-Andrew-Elmenhurst
+Technology has always been difficult for me to learn, but using discord to connect with the professor and other students provides me great relief.I can tell Github will require alot more time to become familiar with the platform. As much as I like to stay on top of my schoolwork, I am employed full-time and maintain an internship. Therefore it is difficult to stay ahead of everything.I have hope!
