@@ -1,0 +1,8 @@
+www.marketwatch.com
+www.youtube.com
+www.evo.com
+The DNS associates names with the corresponding IP addresses.
+A cookie is a bit of data that allows a browser to remember who you are.
+1. Protocol
+2. Domain
+3. Path
