@@ -1,0 +1,5 @@
+#Andrew Elmenhurst
+
+1. A main document can have 6 headings and one body tag.The body tag holds all the content that transfers to the visuals on the browser. The head elements tell the browser and processor info about the HTML document, such as the title, author and publication date.
+2. The difference between Structural and Semantic Markup is Structural provides structural information about a document (i.e titles, paragraphs, breaks). Semantic provides information on the language of the documents (i.e citations, bolding, strong text, quotes).
+3. My work cycle for this assignment started with reviewing the content from the course website while simultaneously beginning my assignment in Atom. I also opened an example of the assignment from Github in a separate tab. I then found a recipe that I used for the assignment and began reading through it to make sure it contained enough content to program. Next, I took a break to swap some laundry and clean my kitchen. I then finished the first part of the assignment, and read back through it to check if any element was left out. Then I ate an apple. Now I am finishing the README document for this week.
