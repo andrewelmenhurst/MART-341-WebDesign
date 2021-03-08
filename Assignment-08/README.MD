@@ -1,0 +1,4 @@
+## Andrew Elmenhurst
+1. An ID is a unique identifier of an element; the class attribute groups together similar kinds of elements; the div tags increase structural clarity and identify groups; and the span attribute identifies text that needs to be unique from other text.
+2. One advantage of using a service like Youtube or Vimeo is that those services are designed to host video content so we don't have to display it on our own page, and one disadvantage is that video is large and you never know if those who are viewing your page have the correct software to view your content.
+3. One challenge I faced this week was balancing my two jobs and school. I made the decision to cut down my hours to focus more on my internship and classes. I've found myself cramming for this class among all my other classes which leaves me feeling pressured to get up early and stay up late trying to keep up.
